@@ -5,7 +5,7 @@
 //  Created by Adam Siton on 8/29/11.
 //  Copyright 2011 Adam Siton. All rights reserved.
 //
-//
+//  https://github.com/navisingh/AUIAnimatedText
 //Permission is hereby granted, free of charge, to any person obtaining a copy
 //of this software and associated documentation files (the "Software"), to deal
 //in the Software without restriction, including without limitation the rights
